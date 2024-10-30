@@ -1,1 +1,1 @@
-from .operations import add,
+from .operations import add subtract, multiply, divide
